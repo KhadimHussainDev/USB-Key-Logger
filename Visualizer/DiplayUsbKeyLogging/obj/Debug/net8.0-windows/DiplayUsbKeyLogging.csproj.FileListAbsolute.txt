@@ -1,0 +1,16 @@
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\bin\Debug\net8.0-windows\DiplayUsbKeyLogging.exe
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\bin\Debug\net8.0-windows\DiplayUsbKeyLogging.deps.json
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\bin\Debug\net8.0-windows\DiplayUsbKeyLogging.runtimeconfig.json
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\bin\Debug\net8.0-windows\DiplayUsbKeyLogging.dll
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\bin\Debug\net8.0-windows\DiplayUsbKeyLogging.pdb
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.Form1.resources
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.csproj.GenerateResource.cache
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.AssemblyInfoInputs.cache
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.AssemblyInfo.cs
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.csproj.CoreCompileInputs.cache
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.dll
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\refint\DiplayUsbKeyLogging.dll
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.pdb
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\DiplayUsbKeyLogging.genruntimeconfig.cache
+C:\Users\ME\source\repos\DiplayUsbKeyLogging\DiplayUsbKeyLogging\obj\Debug\net8.0-windows\ref\DiplayUsbKeyLogging.dll

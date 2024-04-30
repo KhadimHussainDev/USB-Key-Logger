@@ -1,0 +1,81 @@
+tttttttttttttadfasdfas dfdsaf sdfsd fasd fdsa f Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.enter  Key.ctrl_l  Key.shift +' Key.tab d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+ Key.backspace 
+ Key.backspace 
+d
+d
+d
+4
+5
+ Key.left 
+ Key.right 
+ Key.down 
+ Key.end 
+ Key.page_down 
+ Key.up 
+ Key.home 
+ Key.page_up 
+ Key.up 
+None
+None
+ Key.left 
+ Key.end 
+ Key.down 
+ Key.page_down 
+None
+ Key.right 
+ Key.left 
+ Key.right 
+None
+ Key.up 
+ Key.num_lock 
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+4
+5
+4
+2
+3
+4
+2
+3
+1
+2
+3
+1
+2
+3
+2
+1
